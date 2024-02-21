@@ -69,7 +69,6 @@
 
 <style>
 	.contact {
-		padding: 2rem 1rem;
 		margin: 0 auto;
 	}
 
@@ -78,8 +77,10 @@
 		border-radius: 1rem;
 		align-items: center;
 		padding: 2rem 1rem 1.5rem;
-		background-color: #050505;
+		background-color: #111111;
 		display: flex;
+		border: 1px solid #333333;
+		border-radius: 0.5rem;
 		flex-wrap: wrap;
 	}
 
@@ -111,7 +112,8 @@
 
 	.contact-form input,
 	.contact-form textarea {
-		background-color: rgb(46, 54, 61);
+		background-color: #333333;
+		font-size: 1rem;
 		width: 100%;
 		padding: 0.25rem;
 		min-height: 2.5rem;
