@@ -21,7 +21,7 @@ jobs:
 
       - uses: actions/checkout@v4
         with:
-          repository: UTM-Robotics/team-images
+          repository: utmrobotics/team-images
           path: 'src/lib/team'
           ssh-key: ${{ secrets.DEPLOY_KEY }}
 
