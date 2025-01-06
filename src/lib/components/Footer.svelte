@@ -3,7 +3,7 @@
 </script>
 
 <footer class="footer">
-	<p class="footer-copyright">UTM Robotics 2024</p>
+	<p class="footer-copyright">UTM Robotics 2025</p>
 	<div class="footer-socials">
 		<Socials />
 	</div>
