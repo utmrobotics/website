@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/company/utmrobotics/" target="_blank" title="LinkedIn">
 	<Fa icon={faLinkedin} />
 </a>
-<a href="https://github.com/UTM-Robotics/" target="_blank" title="GitHub">
+<a href="https://github.com/utmrobotics/" target="_blank" title="GitHub">
 	<Fa icon={faGithub} />
 </a>
 <a href="https://discord.gg/wFbtZhcXFQ" target="_blank" title="Discord Server">
