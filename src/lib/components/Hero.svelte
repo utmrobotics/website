@@ -59,8 +59,8 @@
 		width: 100%;
 		height: 100%;
 		z-index: 0;
-		background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgb(0, 0, 0)),
-			url('$lib/assets/greenthings.svg');
+		background-image:
+			linear-gradient(rgba(0, 0, 0, 0.4), rgb(0, 0, 0)), url('$lib/assets/greenthings.svg');
 		background-size: 100% 100%;
 		background-position: center;
 		background-repeat: no-repeat;

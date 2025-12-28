@@ -20,7 +20,7 @@
 </script>
 
 <script>
-	import logo from '$lib/assets/inverted-robotics-logo.svg';
+	import logo from '$lib/assets/mono-robotics-logo.svg';
 </script>
 
 <svelte:window bind:scrollY on:scroll={handleScroll} />
