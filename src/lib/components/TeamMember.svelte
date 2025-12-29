@@ -27,12 +27,14 @@
 		{#if linkedin || github}
 			<div class="about-team-members-socials">
 				{#if linkedin}
+					<!-- eslint-disable-next-line svelte/no-navigation-without-resolve -- external URL -->
 					<a href={linkedin} target="_blank" rel="noopener noreferrer" title="{name}'s LinkedIn">
 						<Fa icon={faLinkedin} />
 					</a>
 				{/if}
 
 				{#if github}
+					<!-- eslint-disable-next-line svelte/no-navigation-without-resolve -- external URL -->
 					<a href={github} target="_blank" rel="noopener noreferrer" title="{name}'s GitHub">
 						<Fa icon={faGithub} />
 					</a>

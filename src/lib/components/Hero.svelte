@@ -3,7 +3,7 @@
 		<h1 class="hero-desc-title">UTM&apos;s home for Robotics.</h1>
 		<p class="hero-desc-text">
 			At UTM Robotics club, we <em>foster a dynamic community</em> for enthusiasts, hobbyists, and
-			newcomers alike. Our mission is to{' '}
+			newcomers alike. Our mission is to
 			<em>inspire, educate, and innovate</em> within the ever-evolving field of robotics, for people
 			of <em>all levels of experience</em>.
 		</p>

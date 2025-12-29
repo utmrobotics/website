@@ -17,7 +17,7 @@
 	{/if}
 
 	<div class="events">
-		{#each events as event}
+		{#each events as event (event.name)}
 			<div class="card">
 				<div class="cardface">
 					<p>{event.name}</p>

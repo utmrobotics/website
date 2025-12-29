@@ -10,7 +10,7 @@
 		<h2 class="section-header">Meet the Team</h2>
 
 		<div class="about-team-members">
-			{#each team as member}
+			{#each team as member (member.name)}
 				<TeamMember {...member as TeamMemberProps} />
 			{/each}
 		</div>
